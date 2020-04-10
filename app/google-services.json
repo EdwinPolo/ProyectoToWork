@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965258772577",
+    "firebase_url": "https://towork-cdeb3.firebaseio.com",
+    "project_id": "towork-cdeb3",
+    "storage_bucket": "towork-cdeb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965258772577:android:d60f9be4759725a7b6aa20",
+        "android_client_info": {
+          "package_name": "com.culproject.towork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965258772577-ekb67gen962nqvms6045v0rskvkoc2om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgWqU6WXmnnAWut26bqXiTqB97fus1oy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965258772577-ekb67gen962nqvms6045v0rskvkoc2om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
